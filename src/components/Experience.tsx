@@ -4,7 +4,7 @@ import { Badge } from "@/components/ui/badge";
 
 const experiences = [
   {
-    role: "Quality Engineering Analyst",
+    role: "Test Engineer",
     company: "Sun Life Financial",
     period: "2023 - 2024",
     description: "Conducted manual testing for TCS' BANCS product at Sun Life Insurance in Canada and the UK, focusing on BFSI test cases. Executed test cases including positive and negative scenarios, and reported defects in Devplus.",
