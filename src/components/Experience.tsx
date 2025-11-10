@@ -46,7 +46,7 @@ const experiences = [
     logo: "/lovable-uploads/3610bda2-e848-48f0-a7e2-90b709be7f21.png"
   },
   {
-    role: "Test Analyst",
+    role: "Quality Engineering Analyst",
     company: "Westpac",
     period: "2020 - 2021",
     description: "Collaborated with the Scrum team at this Australian multinational banking and financial services company to create detailed test plans, test sets, and execute test cases in JIRA.",
