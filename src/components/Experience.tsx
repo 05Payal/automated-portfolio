@@ -18,7 +18,7 @@ const experiences = [
     logo: "/lovable-uploads/9434bf16-897a-48ad-bd23-0d8e459ad21a.png"
   },
   {
-    role: "QA Analyst",
+    role: "QA Engineer",
     company: "Hitachi Energy",
     period: "2022 - 2023",
     description: "Led a scratch development project, creating a comprehensive order application with distinct user roles. Conducted thorough testing to validate each functionality of the application.",
