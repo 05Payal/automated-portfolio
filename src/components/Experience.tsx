@@ -15,7 +15,7 @@ const experiences = [
       "Managed defect tracking and reporting with focus on monitoring deliverables"
     ],
     tags: ["Functional Testing", "BFSI", "Defect Management", "Manual Testing"],
-    logo: "/lovable-uploads/258745cf-aa1e-4ebc-924e-46746d53bc43.png"
+    logo: "/lovable-uploads/9434bf16-897a-48ad-bd23-0d8e459ad21a.png"
   },
   {
     role: "QA Analyst",
@@ -29,7 +29,7 @@ const experiences = [
       "Automated applications enhancing efficiency and accuracy"
     ],
     tags: ["TestNG", "Selenium", "Java", "Automation Framework", "UAT"],
-    logo: "/lovable-uploads/9434bf16-897a-48ad-bd23-0d8e459ad21a.png"
+    logo: "/lovable-uploads/258745cf-aa1e-4ebc-924e-46746d53bc43.png"
   },
   {
     role: "Specialist-Test Quality Assurance",
