@@ -15,7 +15,7 @@ const experiences = [
       "Managed defect tracking and reporting with focus on monitoring deliverables"
     ],
     tags: ["Functional Testing", "BFSI", "Defect Management", "Manual Testing"],
-    logo: "/lovable-uploads/3610bda2-e848-48f0-a7e2-90b709be7f21.png"
+    logo: "/lovable-uploads/9434bf16-897a-48ad-bd23-0d8e459ad21a.png"
   },
   {
     role: "QA Analyst",
