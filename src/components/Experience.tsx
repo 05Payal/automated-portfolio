@@ -43,7 +43,7 @@ const experiences = [
       "Collaborated with developers to address technical issues and track bugs"
     ],
     tags: ["BDD Cucumber", "Regression Testing", "UAT", "Banking Domain"],
-    logo: "/lovable-uploads/258745cf-aa1e-4ebc-924e-46746d53bc43.png"
+    logo: "/lovable-uploads/9434bf16-897a-48ad-bd23-0d8e459ad21a.png"
   },
   {
     role: "Test Analyst",
