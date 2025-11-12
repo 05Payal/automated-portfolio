@@ -51,10 +51,14 @@ const experiences = [
     period: "2020 - 2021",
     description: "Collaborated with the Scrum team at this Australian multinational banking and financial services company to create detailed test plans, test sets, and execute test cases in JIRA.",
     achievements: [
-      "Developed hybrid framework (keyword + data-driven) for Appian-based applications",
-      "Used Bitbucket for repository management and version control of test assets",
-      "Executed test scripts via command-line operations using Seleniumbox",
-      "Generated test closure reports and coordinated with developers to resolve issues"
+      "Collaborated with the Scrum team to create detailed test plans, test sets, and execute test cases in JIRA, ensuring accurate tracking of test progress and outcomes",
+      "Developed a hybrid framework (keyword + data-driven) for automating tests on an Appian-based application, improving efficiency and reusability of scripts",
+      "Prepared and executed automated test cases across multiple environments to validate software performance and functionality",
+      "Used Bitbucket to manage repositories, track changes, and maintain version control of test scripts and related assets",
+      "Ran test scripts via command-line operations, streamlining automation processes, and ensured accurate results were captured through Seleniumbox",
+      "Generated and analyzed test closure reports, providing comprehensive feedback on test coverage and software quality",
+      "Coordinated with developers to resolve issues identified during automated testing, enhancing the overall quality and reliability of the software",
+      "Validated the pipeline by running tests and monitoring the output through the Jenkins console to ensure successful execution"
     ],
     tags: ["Appian", "JIRA", "Bitbucket", "Hybrid Framework", "Banking"],
     logo: "/lovable-uploads/7bedda01-3e8d-43ce-a310-753036ebc425.png"
