@@ -16,7 +16,7 @@ const skillCategories = [
     skills: [
       "Functional Testing", "Regression Testing", "API Testing", 
       "Integration Testing", "Smoke Testing", "Sanity Testing",
-      "UAT", "SIT", "E2E Testing", "Ad-Hoc Testing"
+      "System Testing", "UAT", "SIT", "E2E Testing", "Ad-Hoc Testing"
     ]
   },
   {
@@ -31,14 +31,14 @@ const skillCategories = [
     icon: <Server className="h-8 w-8 text-primary" />,
     title: "API Testing",
     skills: [
-      "Postman", "REST API", "SOAP API", "API Automation"
+      "Postman", "REST API", "API Automation"
     ]
   },
   {
     icon: <Workflow className="h-8 w-8 text-primary" />,
     title: "CI/CD & Methodologies",
     skills: [
-      "Jenkins", "Agile/Scrum", "SDLC", "CI/CD Pipelines"
+      "Jenkins", "JFrog Artifactory", "Agile/Scrum", "SDLC", "CI/CD Pipelines"
     ]
   },
   {
