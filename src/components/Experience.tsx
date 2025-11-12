@@ -7,12 +7,14 @@ const experiences = [
     role: "Test Engineer",
     company: "Sun Life Financial",
     period: "2023 - 2024",
-    description: "Conducted manual testing for TCS' BANCS product at Sun Life Insurance in Canada and the UK, focusing on BFSI test cases. Executed test cases including positive and negative scenarios, and reported defects in Devplus.",
+    description: "Conducted manual testing for TCS' BANCS product at Sun Life Insurance in Canada and the UK, focusing on BFSI test cases. Skillfully executed test cases, including positive and negative scenarios, and reported defects in Devplus when necessary.",
     achievements: [
-      "Analyzed customer requirements and participated in requirement analysis",
-      "Designed and executed test cases aligned with functional specifications",
-      "Executed system test suite ensuring comprehensive testing coverage",
-      "Managed defect tracking and reporting with focus on monitoring deliverables"
+      "Profound understanding and analysis of customer requirements",
+      "Active participation in requirement analysis, test case design, and development",
+      "Diligent execution of the system test suite, ensuring comprehensive testing coverage",
+      "Proficient management of defect tracking and reporting, with a dedicated focus on reviewing and monitoring deliverables",
+      "Skillful design and execution of test cases, meticulously aligned with functional specifications",
+      "Expertise in conducting Functional Testing, with a thorough examination of all aspects of the application"
     ],
     tags: ["Functional Testing", "BFSI", "Defect Management", "Manual Testing"],
     logo: "/lovable-uploads/9434bf16-897a-48ad-bd23-0d8e459ad21a.png"
