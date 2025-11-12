@@ -32,7 +32,7 @@ const experiences = [
     logo: "/lovable-uploads/258745cf-aa1e-4ebc-924e-46746d53bc43.png"
   },
   {
-    role: "Specialist-Test Quality Assurance",
+    role: "QA Analyst",
     company: "Citi Bank",
     period: "2021 - 2022",
     description: "Worked on various functional changes for Citibank account opening application. Updated application functionality and verified changes through comprehensive testing.",
