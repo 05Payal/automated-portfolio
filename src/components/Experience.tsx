@@ -37,12 +37,16 @@ const experiences = [
     role: "QA Analyst",
     company: "Citi Bank",
     period: "2021 - 2022",
-    description: "Worked on various functional changes for Citibank account opening application. Updated application functionality and verified changes through comprehensive testing.",
+    description: "Citi is an American multinational investment bank and financial services company. Worked on various functional changes of an application, updating the changes in function of an application and various functional changes in Citibank account opening.",
     achievements: [
-      "Automated Regression Scripts using BDD Cucumber",
-      "Designed and reviewed test cases for critical banking functions",
-      "Performed Functionality, Sanity, UAT, and Regression Testing",
-      "Collaborated with developers to address technical issues and track bugs"
+      "Understand the customer requirements by analyzing SRS documents",
+      "Automated Regression Scripts using BDD cucumber",
+      "Involved in designing the Test Case",
+      "Participated in the Test case review meetings",
+      "Performed Functionality Sanity, UAT, and Regression Testing",
+      "Interact with developers and discussed technical problems, and bug tracking",
+      "Reporting the Regular status to the higher authorities in a timely manner",
+      "Done end-to-end testing of an application"
     ],
     tags: ["BDD Cucumber", "Regression Testing", "UAT", "Banking Domain"],
     logo: "/lovable-uploads/3610bda2-e848-48f0-a7e2-90b709be7f21.png"
