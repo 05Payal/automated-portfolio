@@ -23,12 +23,12 @@ const experiences = [
     role: "QA Engineer",
     company: "Hitachi Energy",
     period: "2022 - 2023",
-    description: "Led a scratch development project, creating a comprehensive order application with distinct user roles. Conducted thorough testing to validate each functionality of the application.",
+    description: "Successfully led a scratch development project, creating a comprehensive order application featuring distinct user roles. Conducted thorough testing to validate each functionality of the application.",
     achievements: [
-      "Developed testing framework using TestNG, Selenium, and Java",
-      "Conducted integration, regression, functional, UAT, and sanity testing",
-      "Created and implemented comprehensive test plans and test cases",
-      "Automated applications enhancing efficiency and accuracy"
+      "Developing a robust testing framework using TestNG, Selenium, and Java to streamline the testing process",
+      "In progress automated the application, enhancing efficiency and accuracy while thoroughly evaluating its functionality",
+      "Proficiently conducting a spectrum of essential testing types, including integration, regression, functional, User Acceptance Testing (UAT), and sanity testing, ensuring comprehensive software validation",
+      "Demonstrated a methodical approach by meticulously crafting and executing a comprehensive test plan, and meticulously creating and implementing test cases to validate system functionality"
     ],
     tags: ["TestNG", "Selenium", "Java", "Automation Framework", "UAT"],
     logo: "/lovable-uploads/258745cf-aa1e-4ebc-924e-46746d53bc43.png"
