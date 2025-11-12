@@ -24,7 +24,7 @@ const skillCategories = [
     title: "Automation",
     skills: [
       "Java-Selenium WebDriver", "BDD/Cucumber", "TestNG", 
-      "Appian Low Touch Automation", "Maven", "Gradle"
+      "Appian Low Touch Automation", "Selenium Box", "Maven", "Gradle"
     ]
   },
   {
