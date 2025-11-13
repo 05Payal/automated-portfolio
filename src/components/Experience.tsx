@@ -4,25 +4,27 @@ import { Badge } from "@/components/ui/badge";
 
 const experiences = [
   {
-    role: "Test Engineer",
-    company: "Sun Life Financial",
-    period: "2023 - 2024",
-    description: "Conducted manual testing for TCS' BANCS product at Sun Life Insurance in Canada and the UK, focusing on BFSI test cases. Skillfully executed test cases, including positive and negative scenarios, and reported defects in Devplus when necessary.",
+    role: "Quality Engineering Analyst",
+    company: "Westpac",
+    period: "2024 - Present",
+    description: "Collaborated with the Scrum team at this Australian multinational banking and financial services company to create detailed test plans, test sets, and execute test cases in JIRA.",
     achievements: [
-      "Profound understanding and analysis of customer requirements",
-      "Active participation in requirement analysis, test case design, and development",
-      "Diligent execution of the system test suite, ensuring comprehensive testing coverage",
-      "Proficient management of defect tracking and reporting, with a dedicated focus on reviewing and monitoring deliverables",
-      "Skillful design and execution of test cases, meticulously aligned with functional specifications",
-      "Expertise in conducting Functional Testing, with a thorough examination of all aspects of the application"
+      "Collaborated with the Scrum team to create detailed test plans, test sets, and execute test cases in JIRA, ensuring accurate tracking of test progress and outcomes",
+      "Developed a hybrid framework (keyword + data-driven) for automating tests on an Appian-based application, improving efficiency and reusability of scripts",
+      "Prepared and executed automated test cases across multiple environments to validate software performance and functionality",
+      "Used Bitbucket to manage repositories, track changes, and maintain version control of test scripts and related assets",
+      "Ran test scripts via command-line operations, streamlining automation processes, and ensured accurate results were captured through Seleniumbox",
+      "Generated and analyzed test closure reports, providing comprehensive feedback on test coverage and software quality",
+      "Coordinated with developers to resolve issues identified during automated testing, enhancing the overall quality and reliability of the software",
+      "Validated the pipeline by running tests and monitoring the output through the Jenkins console to ensure successful execution"
     ],
-    tags: ["Functional Testing", "BFSI", "Defect Management", "Manual Testing"],
-    logo: "/lovable-uploads/9434bf16-897a-48ad-bd23-0d8e459ad21a.png"
+    tags: ["Appian", "JIRA", "Bitbucket", "Hybrid Framework", "Banking"],
+    logo: "/lovable-uploads/7bedda01-3e8d-43ce-a310-753036ebc425.png"
   },
   {
     role: "QA Engineer",
     company: "Hitachi Energy",
-    period: "2022 - 2023",
+    period: "2023 - 2024",
     description: "Successfully led a scratch development project, creating a comprehensive order application featuring distinct user roles. Conducted thorough testing to validate each functionality of the application.",
     achievements: [
       "Developing a robust testing framework using TestNG, Selenium, and Java to streamline the testing process",
@@ -36,7 +38,7 @@ const experiences = [
   {
     role: "QA Analyst",
     company: "Citi Bank",
-    period: "2021 - 2022",
+    period: "2021 - 2023",
     description: "Citi is an American multinational investment bank and financial services company. Worked on various functional changes of an application, updating the changes in function of an application and various functional changes in Citibank account opening.",
     achievements: [
       "Understand the customer requirements by analyzing SRS documents",
@@ -52,22 +54,20 @@ const experiences = [
     logo: "/lovable-uploads/3610bda2-e848-48f0-a7e2-90b709be7f21.png"
   },
   {
-    role: "Quality Engineering Analyst",
-    company: "Westpac",
+    role: "Test Engineer",
+    company: "Sun Life Financial",
     period: "2020 - 2021",
-    description: "Collaborated with the Scrum team at this Australian multinational banking and financial services company to create detailed test plans, test sets, and execute test cases in JIRA.",
+    description: "Conducted manual testing for TCS' BANCS product at Sun Life Insurance in Canada and the UK, focusing on BFSI test cases. Skillfully executed test cases, including positive and negative scenarios, and reported defects in Devplus when necessary.",
     achievements: [
-      "Collaborated with the Scrum team to create detailed test plans, test sets, and execute test cases in JIRA, ensuring accurate tracking of test progress and outcomes",
-      "Developed a hybrid framework (keyword + data-driven) for automating tests on an Appian-based application, improving efficiency and reusability of scripts",
-      "Prepared and executed automated test cases across multiple environments to validate software performance and functionality",
-      "Used Bitbucket to manage repositories, track changes, and maintain version control of test scripts and related assets",
-      "Ran test scripts via command-line operations, streamlining automation processes, and ensured accurate results were captured through Seleniumbox",
-      "Generated and analyzed test closure reports, providing comprehensive feedback on test coverage and software quality",
-      "Coordinated with developers to resolve issues identified during automated testing, enhancing the overall quality and reliability of the software",
-      "Validated the pipeline by running tests and monitoring the output through the Jenkins console to ensure successful execution"
+      "Profound understanding and analysis of customer requirements",
+      "Active participation in requirement analysis, test case design, and development",
+      "Diligent execution of the system test suite, ensuring comprehensive testing coverage",
+      "Proficient management of defect tracking and reporting, with a dedicated focus on reviewing and monitoring deliverables",
+      "Skillful design and execution of test cases, meticulously aligned with functional specifications",
+      "Expertise in conducting Functional Testing, with a thorough examination of all aspects of the application"
     ],
-    tags: ["Appian", "JIRA", "Bitbucket", "Hybrid Framework", "Banking"],
-    logo: "/lovable-uploads/7bedda01-3e8d-43ce-a310-753036ebc425.png"
+    tags: ["Functional Testing", "BFSI", "Defect Management", "Manual Testing"],
+    logo: "/lovable-uploads/9434bf16-897a-48ad-bd23-0d8e459ad21a.png"
   }
 ];
 
